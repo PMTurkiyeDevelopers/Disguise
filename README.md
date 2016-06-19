@@ -1,2 +1,6 @@
 # Disguise
-Disguise Plugin for Pocketmine and MCPE by Enes5519
+Disguise Plugin for Pocketmine and MCPE.
+Plugin by Enes5519
+
+# Finished
+Plugin Work!!
