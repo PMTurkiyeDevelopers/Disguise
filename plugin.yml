@@ -1,0 +1,15 @@
+name: Disguise
+version: 1.1 [by Enes5519]
+main: Enes5519\Disguise\Main
+api: [1.14.1, 2.0.0]
+author: Enes5519
+
+commands:
+  disguise:
+    description: Disguise by Enes5519
+    default: op
+    aliases: [d]
+
+permissions:
+  enes5519.disguise:
+    default: false
